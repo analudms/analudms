@@ -1,5 +1,4 @@
 # Welcome to my profile, my name is Ana Luiza! 👋🏻
-<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
 
 ## Sobre Mim ✨
 - 📚 I’m currently learning CSS, HTML, JavaScript.
