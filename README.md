@@ -1,10 +1,10 @@
  
 Hi, my name is Ana Luiza!
 ##
-- 📚 I’m currently learning CSS, HTML, JavaScript, Python e PHP.
+- 📚 I’m currently learning CSS, HTML, JavaScript.
 - 💌 How to reach me: https://www.linkedin.com/in/ana-luiza-melo-8b94181b3/
 - 👩🏻 Pronouns: she/her.
-- 💭 Curiosity: First period in systems analysis and development and trying to learn English.
+- 💭 Curiosity: Going to the second period in systems analysis and development!.
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +12,8 @@ Hi, my name is Ana Luiza!
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ana-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div> 
 
  ##
