@@ -26,6 +26,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/ana-luiza-melo-8b94181b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https:https://www.instagram.com/analubiza/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=original" target="_blank"></a> 
+  <a href="https://www.instagram.com/analubiza/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=original" target="_blank"></a> 
 
 </div>
