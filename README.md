@@ -16,7 +16,7 @@
   <img alt="Ana-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Ana-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Ana-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="Ana-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Ana-GITHUB" height="40" width="50" src="https://gist.githubusercontent.com/victoriaflb/97efd83c87833da6515ad7af12a2eabb/raw/2b31cc77e8fdd142b8875f13b0de1be49e367978/github.svg" />
   <img alt="Ana-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   
   <img alt="Ana-LINUX" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">   
 
